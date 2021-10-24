@@ -27,4 +27,4 @@ https://raw.githubusercontent.com/renyanle/2021.10.23.bdfbdfb/main/README.md
 
 # v2上面的节点集合订阅链接 / v2 node collection sub link - the node above
 
-https://raw.githubusercontent.com/BlueStarrySky1/MyClash/main/node/v2ray
+https://raw.githubusercontent.com/BlueStarrySky1/MyNode/main/node/v2ray
