@@ -1,7 +1,7 @@
-## MyNode
+# MyNode
 我收集的节点 / My Node 
 
-## clash
+# clash
 
 # clash订阅链接 / Sub Link for Clash
 
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/renyanle/2021.10.23.bfdbdf/main/README.md
 
 https://github.com/BlueStarrySky1/MyNode/raw/main/node/clash
 
-## v2ray
+# v2ray
 
 # v2订阅链接 / sub link for v2ray
 
