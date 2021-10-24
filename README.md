@@ -13,6 +13,10 @@ https://raw.githubusercontent.com/renyanle/2021.10.23.tteess/main/README.md
 
 https://raw.githubusercontent.com/renyanle/2021.10.23.bfdbdf/main/README.md
 
+# clash上面的节点集合订阅链接 / clash node collection sub link - the node above
+
+https://github.com/BlueStarrySky1/MyNode/raw/main/node/clash
+
 # v2订阅链接 / sub link for v2ray
 
 https://raw.githubusercontent.com/freefq/free/master/v2
@@ -25,6 +29,6 @@ https://raw.githubusercontent.com/renyanle/2021.10.23.bbvvb/main/README.md
 
 https://raw.githubusercontent.com/renyanle/2021.10.23.bdfbdfb/main/README.md
 
-# v2上面的节点集合订阅链接 / v2 node collection sub link - the node above
+# v2上面的节点集合订阅链接 / v2ray node collection sub link - the node above
 
 https://raw.githubusercontent.com/BlueStarrySky1/MyNode/main/node/v2ray
