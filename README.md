@@ -44,5 +44,5 @@ https://suo.yt/c0jkDa1
 # v2上面的节点集合订阅链接 / v2ray node collection sub link - the node above
 https://raw.githubusercontent.com/BlueStarrySky1/MyNode/main/node/v2ray
 
-国内
+# 国内 / link in China
 https://suo.yt/IZ6Q8oz
