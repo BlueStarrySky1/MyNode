@@ -28,6 +28,9 @@ https://suo.yt/WF9X8hl
 # clash上面的节点集合订阅链接 / clash node collection sub link - the node above
 https://github.com/BlueStarrySky1/MyNode/raw/main/node/clash
 
+# 国内 / link in China
+https://suo.yt/6CKrHz9
+
 # v2ray
 
 # v2订阅链接 / sub link for v2ray
